@@ -11,3 +11,4 @@ permalink: /todos/
 - site statistics (Google Analytics)
 - icons for easy sharing
 - small teaser under each blog post
+- page name

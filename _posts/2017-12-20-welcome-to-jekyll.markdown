@@ -3,6 +3,9 @@ layout: post
 title:  "Benefits of systematic trading strategies"
 date:   2017-12-20 08:25:52 +0100
 categories: jekyll update
+excerpt: > #
+  Short intro. And intro. And more. But no 
+  line breaks.
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it
