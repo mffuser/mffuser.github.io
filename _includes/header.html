@@ -1,5 +1,9 @@
 {% if page.math != false %}
-  {% include scripts.html %}
+  {% include mathjax.html %}
+{% endif %}
+
+{% if page.jupyter != false %}
+  {% include jupyter_styling.html %}
 {% endif %}
 
 <header class="site-header">

@@ -1,4 +1,5 @@
 title: ChrisAndData
+# title: Quantitative perspective
 author: Dr. Christian Groll
 position: Head of Quantitative Investment Strategy
 company: Scalable Capital
@@ -46,7 +47,6 @@ header_pages:
 - about.md
 - categories.html
 - links.md
-- tools.md
 - todos.md
 
 
