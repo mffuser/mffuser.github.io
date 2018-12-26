@@ -20,7 +20,12 @@
               {{ site.position | escape }}
             {%- endif -%}
           </li>
-			 {%- if site.company -%}<li><a href="https://de.scalable.capital"><span class="username">{{ site.company| escape }}</span></a></li>{%- endif -%}
+          <li class="p-name">
+            {%- if site.company -%}
+              {{ site.company | escape }}
+            {%- endif -%}
+          </li>
+			 
 			 
 			 {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>

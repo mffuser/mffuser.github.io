@@ -2,7 +2,7 @@
 layout: post
 title:  "Benefits of systematic trading strategies"
 date:   2017-12-20 08:25:52 +0100
-categories: jekyll update
+categories: [FinMetrics, Tools]
 excerpt: > #
   Short intro. And intro. And more. But no 
   line breaks.
