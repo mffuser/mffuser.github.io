@@ -40,14 +40,22 @@ quantitative approach:
 - **Quantification**: Instead of talking about "nice" or "hot"
   weather, it is much more precise to compare days in terms of
   objective measures like temperature or humidity.
-- **Data**: data enables us to learn from past events. But course,
+- **Data**: data enables us to learn from past events. But of course,
   "with great power comes great responsibility" - we need to be very
   cautious about how we use, store and interpret data.
-- **Models**: TODO assumptions and inferences.
+- **Models**: Combining data with well thought out assumptions allows
+  to draw inferences beyond what we already can see in our data. For
+  example, assuming independence between coin tosses and a probability
+  of $0.5$ for tails we can simply infer the probability of 100
+  consecutive times tails as $0.5^{100}$.
 - **Visualizations**: A picture is worth a thousand words. In many
   situations well-suited visualizations will be the easiest and
   fastest way to discover patterns in data, summarize findings and
   convey a certain finding to other people.
+- **Tools**: Whether it is storing and accessing of data, inferences
+  from complicated models or visualizations - none of these steps is
+  feasible in practice without an appropriate software setup. Hence,
+  software tools will also be part of the topics in this blog.
 
 
 ### About Me
