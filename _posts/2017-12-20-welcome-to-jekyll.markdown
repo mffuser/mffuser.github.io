@@ -14,6 +14,12 @@ many different ways, but the most common way is to run `jekyll serve`,
 which launches a web server and auto-regenerates your site when a file
 is updated. 
 
+$$
+\begin{equation}
+x^2 = 4+\sin(x)
+\end{equation}
+$$
+
 To add new posts, simply add a file in the `_posts` directory that
 follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the
 necessary front matter. Take a look at the source for this post to get
